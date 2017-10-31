@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mybatis/mybatis-basic" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro/shiro-basic" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/spring-data" />
+    <file type="web" url="file://$PROJECT_DIR$/spring/spring-security" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
       </list>
     </option>
   </component>

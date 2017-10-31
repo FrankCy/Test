@@ -1,0 +1,7 @@
+*.iml
+*.gitgnore
+*.idea
+target
+*target
+*.xml
+*.log

@@ -22,11 +22,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="mybatis" />
+        <module name="mybatis-basic" />
+        <module name="shiro-basic" />
+        <module name="spring-data" />
+        <module name="spring-security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mybatis" target="1.5" />
+      <module name="mybatis-basic" target="1.5" />
+      <module name="shiro" target="1.5" />
+      <module name="shiro-basic" target="1.5" />
+      <module name="spring" target="1.5" />
+      <module name="spring-data" target="1.5" />
+      <module name="spring-security" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

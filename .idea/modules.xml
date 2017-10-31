@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis-basic/mybatis-basic.iml" filepath="$PROJECT_DIR$/mybatis/mybatis-basic/mybatis-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/shiro/shiro.iml" filepath="$PROJECT_DIR$/shiro/shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro/shiro-basic/shiro-basic.iml" filepath="$PROJECT_DIR$/shiro/shiro-basic/shiro-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring-data/spring-data.iml" filepath="$PROJECT_DIR$/spring/spring-data/spring-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring-security/spring-security.iml" filepath="$PROJECT_DIR$/spring/spring-security/spring-security.iml" />
     </modules>
   </component>
 </project>
